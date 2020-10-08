@@ -1,4 +1,6 @@
-#Hey I'm Franz Taborlupa!
+<h1 align="center">
+  Hey I'm Franz Taborlupa!
+</h1>
 
 I'm a 19 year old budding software engineer that's learning about web and mobile full stack development along with UX design and Data Science towards data-driven software products with impact.
 
