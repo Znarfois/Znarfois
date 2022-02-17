@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   Hey I'm Franz Taborlupa!
 </h1>
 
